@@ -1,4 +1,4 @@
-module prueba
+module github.com/luisg6z/memory-server
 
 go 1.23.1
 

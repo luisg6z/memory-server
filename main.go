@@ -7,8 +7,8 @@ import (
 	"net"
 	"sync"
 
-	game "prueba/proto/game"
-	lobby "prueba/proto/lobby"
+	game "github.com/luisg6z/memory-server/proto/game"
+	lobby "github.com/luisg6z/memory-server/proto/lobby"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
